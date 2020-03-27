@@ -1,0 +1,19 @@
+body
+{
+	background-color:#00FFFF}
+h1
+{
+	text-align:left;color:#00008B}
+p1
+{
+	color:#FFD700}
+
+img
+{
+	border-radius: 75%;
+	width: 200px;
+	height: 200px;
+	display: inline-block;
+	margin-left: auto;
+	margin-right: auto;
+}
